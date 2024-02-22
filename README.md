@@ -1,5 +1,5 @@
 <h1 align="center">Hi friend, I'm Oleg 
-<img src="https://github.com/ol-leon/images/blob/main/greetcat.gif" height="32"/></h1>
+<img src="https://github.com/ol-leon/images/blob/main/bongo.gif" height="32"/></h1>
 <h3 align="center">Bioengineering and Bioinformatics student</h3>
 
 <h4>About me</h4>
